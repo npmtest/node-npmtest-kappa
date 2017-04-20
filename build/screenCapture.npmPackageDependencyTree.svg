@@ -1,0 +1,65 @@
+<svg height="990" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="990" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">9 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ kappa@1.0.0-rc.14 </tspan>
+<tspan x="10" y="90">  ├── async@0.9.2 </tspan>
+<tspan x="10" y="106">  ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="122">  ├─┬ hapi@7.5.3 </tspan>
+<tspan x="10" y="138">  │ ├── accept@1.0.0 </tspan>
+<tspan x="10" y="154">  │ ├── boom@2.5.1 </tspan>
+<tspan x="10" y="170">  │ ├── call@1.0.0 </tspan>
+<tspan x="10" y="186">  │ ├── catbox@4.1.0 </tspan>
+<tspan x="10" y="202">  │ ├── catbox-memory@1.1.0 </tspan>
+<tspan x="10" y="218">  │ ├── cryptiles@2.0.4 </tspan>
+<tspan x="10" y="234">  │ ├── glue@1.0.0 </tspan>
+<tspan x="10" y="250">  │ ├── h2o2@2.0.1 </tspan>
+<tspan x="10" y="266">  │ ├── heavy@1.0.0 </tspan>
+<tspan x="10" y="282">  │ ├── hoek@2.9.0 </tspan>
+<tspan x="10" y="298">  │ ├─┬ inert@1.1.1 </tspan>
+<tspan x="10" y="314">  │ │ └── lru-cache@2.5.0 </tspan>
+<tspan x="10" y="330">  │ ├── iron@2.1.2 </tspan>
+<tspan x="10" y="346">  │ ├── items@1.1.0 </tspan>
+<tspan x="10" y="362">  │ ├─┬ joi@4.7.0 </tspan>
+<tspan x="10" y="378">  │ │ └── isemail@1.1.1 </tspan>
+<tspan x="10" y="394">  │ ├── kilt@1.1.1 </tspan>
+<tspan x="10" y="410">  │ ├─┬ mimos@1.0.1 </tspan>
+<tspan x="10" y="426">  │ │ └── mime-db@1.1.2 </tspan>
+<tspan x="10" y="442">  │ ├── qs@2.3.2 </tspan>
+<tspan x="10" y="458">  │ ├─┬ rejoice@1.0.0 </tspan>
+<tspan x="10" y="474">  │ │ └── bossy@1.0.2 </tspan>
+<tspan x="10" y="490">  │ ├── shot@1.3.5 </tspan>
+<tspan x="10" y="506">  │ ├── statehood@1.2.0 </tspan>
+<tspan x="10" y="522">  │ ├─┬ subtext@1.0.2 </tspan>
+<tspan x="10" y="538">  │ │ ├── content@1.0.1 </tspan>
+<tspan x="10" y="554">  │ │ └─┬ pez@1.0.0 </tspan>
+<tspan x="10" y="570">  │ │   ├── b64@2.0.0 </tspan>
+<tspan x="10" y="586">  │ │   └─┬ nigel@1.0.1 </tspan>
+<tspan x="10" y="602">  │ │     └── vise@1.0.0 </tspan>
+<tspan x="10" y="618">  │ ├── topo@1.0.2 </tspan>
+<tspan x="10" y="634">  │ ├── vision@1.2.1 </tspan>
+<tspan x="10" y="650">  │ └── wreck@5.0.1 </tspan>
+<tspan x="10" y="666">  ├── hoek@2.16.3 </tspan>
+<tspan x="10" y="682">  ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="698">  ├─┬ shortstop@1.0.3 </tspan>
+<tspan x="10" y="714">  │ ├── async@0.2.10 </tspan>
+<tspan x="10" y="730">  │ └── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="746">  ├─┬ shortstop-handlers@1.0.1 </tspan>
+<tspan x="10" y="762">  │ ├── caller@1.0.1 </tspan>
+<tspan x="10" y="778">  │ └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="794">  │   ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="810">  │   ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="826">  │   │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="842">  │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="858">  │   ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="874">  │   │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="890">  │   │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="906">  │   │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="922">  │   ├── once@1.4.0 </tspan>
+<tspan x="10" y="938">  │   └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="954">  └─┬ wreck@5.6.1 </tspan>
+<tspan x="10" y="970">    └── boom@2.10.1</tspan>
+</text>
+</svg>
